@@ -1,2 +1,2 @@
 # Week6_ValgrindExercise
-ENPM808X Week6 ValGrinf Exercise
+ENPM808X Week6 ValGrind Exercise

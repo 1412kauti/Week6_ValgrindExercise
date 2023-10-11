@@ -31,9 +31,12 @@
 *.out
 *.app
 
-# CMake Files
-build/
+# CMake build directory
+/build/
 .cache/
+
+# CMake compile_commands.json file
 compile_commands.json
 
+#VSCode Config
 .vscode/
